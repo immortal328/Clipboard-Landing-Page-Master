@@ -47,7 +47,7 @@
 
 /*Header Part*/
 .logo-bg{
-    background-image: url("../images/bg-header-mobile.png");
+    background-image: url("/../images/bg-header-mobile.png");
     width: 100%;
     height: 363px;
     background-size: 100% 100%;
@@ -134,7 +134,7 @@
     .mb-150{margin-bottom: 150px;}
 
     .logo-bg{
-        background-image: url("../images/bg-header-desktop.png");
+        background-image: url("/../images/bg-header-desktop.png");
         width: 100%;
         height: 320px;
         background-size: 100% 100%;
@@ -243,7 +243,7 @@
     .mr-10{margin-right: 10px;}
 
     .logo-bg{
-        background-image: url("../images/bg-header-desktop.png");
+        background-image: url("/../images/bg-header-desktop.png");
         width: 100%;
         height: 320px;
         background-size: 100% 100%;
@@ -404,7 +404,7 @@
     .mb-150{margin-bottom: 150px;}
 
     .logo-bg{
-        background-image: url("../images/bg-header-desktop.png");
+        background-image: url("/../images/bg-header-desktop.png");
         width: 100%;
         height: 320px;
         background-size: 100% 100%;
